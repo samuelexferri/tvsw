@@ -61,7 +61,7 @@ pathspec==0.8.0
 pbr==5.4.5
 Pillow==7.1.2
 pluggy==0.6.0
-py==1.8.1
+py==1.10.0
 pyan3==1.0.4
 pycodestyle==2.5.0
 pydot==1.4.1
